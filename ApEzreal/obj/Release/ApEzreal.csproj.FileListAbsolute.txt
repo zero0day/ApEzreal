@@ -1,0 +1,12 @@
+c:\users\zero0day\documents\visual studio 2015\Projects\ApEzreal\ApEzreal\bin\Release\ApEzreal.exe.config
+c:\users\zero0day\documents\visual studio 2015\Projects\ApEzreal\ApEzreal\bin\Release\ApEzreal.exe
+c:\users\zero0day\documents\visual studio 2015\Projects\ApEzreal\ApEzreal\bin\Release\ApEzreal.pdb
+c:\users\zero0day\documents\visual studio 2015\Projects\ApEzreal\ApEzreal\bin\Release\EloBuddy.dll
+c:\users\zero0day\documents\visual studio 2015\Projects\ApEzreal\ApEzreal\bin\Release\EloBuddy.SDK.dll
+c:\users\zero0day\documents\visual studio 2015\Projects\ApEzreal\ApEzreal\bin\Release\SharpDX.dll
+c:\users\zero0day\documents\visual studio 2015\Projects\ApEzreal\ApEzreal\bin\Release\SharpDX.Direct3D9.dll
+c:\users\zero0day\documents\visual studio 2015\Projects\ApEzreal\ApEzreal\bin\Release\EloBuddy.Sandbox.dll
+c:\users\zero0day\documents\visual studio 2015\Projects\ApEzreal\ApEzreal\bin\Release\Newtonsoft.Json.dll
+c:\users\zero0day\documents\visual studio 2015\Projects\ApEzreal\ApEzreal\obj\Release\ApEzreal.csprojResolveAssemblyReference.cache
+c:\users\zero0day\documents\visual studio 2015\Projects\ApEzreal\ApEzreal\obj\Release\ApEzreal.exe
+c:\users\zero0day\documents\visual studio 2015\Projects\ApEzreal\ApEzreal\obj\Release\ApEzreal.pdb
